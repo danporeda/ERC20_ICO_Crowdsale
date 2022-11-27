@@ -1,7 +1,7 @@
 ## Evaluation Evidence
 
 KaseiCoin compiled
-![KaseiCoin compiled](KaseiCoin_compilation.png)
+![KaseiCoin compiled](KaseiCoin_compiled.png)
 
 KaseCoinCrowdsale compiled
 ![KaseiCoinCrowsale compiled](KaseiCoinCrowdsale_compiled.png)
